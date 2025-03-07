@@ -1,5 +1,5 @@
 # Ignore environment files
-dev/src/.env
+dev/.env
 
 # Ignore target and build artifacts
 target/
