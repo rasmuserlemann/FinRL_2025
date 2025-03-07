@@ -1,0 +1,15 @@
+# Ignore environment files
+dev/src/.env
+
+# Ignore target and build artifacts
+target/
+debug/
+release/
+
+# Ignore Cargo lock file (if it's a library)
+Cargo.lock
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+*.iml

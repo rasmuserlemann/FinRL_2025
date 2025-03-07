@@ -1,0 +1,9 @@
+[package]
+name = "my_crate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitcoincore-rpc = "0.16"
+dotenv = "0.15"
+chrono = "0.4.19"
