@@ -1,5 +1,5 @@
 # Ignore environment files
-dev/.env
+dev/my_crate/.env
 
 # Ignore target and build artifacts
 target/
